@@ -1,0 +1,7 @@
+Utility:
+  
+  InternalRedirect:
+    cache:              false
+    public_name:        Internal Redirect
+    form_class:         dmRedirectWidgetForm
+    view_class:         dmRedirectWidgetView
